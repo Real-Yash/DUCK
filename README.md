@@ -2,4 +2,4 @@
 # web
 >>>>>>>
 I made this website 'cause I was bored.
->>>>>>> 3am thought yk
+>> 3am thought yk
