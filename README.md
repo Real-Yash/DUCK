@@ -1,5 +1,5 @@
- Welcome To Web (Yash.is-a.dev)
+ Welcome To Duck  ([Duck.web](https://duck.patilyash.me/))
 # web
 >>>>>>>
-you are above to get troll now hahaha....
->>>>>>> (package main)
+I made this website cuz i was getting boarded LOL
+>>>>>>> 
